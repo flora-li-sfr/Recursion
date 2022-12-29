@@ -1,3 +1,3 @@
 # Recursion
-An approach for the lazy programmer
-An approach to some math problems
+An approach for the lazy programmer.
+And an approach to some math problems.
